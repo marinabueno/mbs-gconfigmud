@@ -12,3 +12,5 @@
 #exercicio 4
 
 #exercicio 5.0
+
+#ex 05
